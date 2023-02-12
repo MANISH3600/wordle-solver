@@ -1,4 +1,10 @@
 # wordle-solver
+
+## to run
+```
+node express.js
+```
+
 this can be used to recommend words in [wordle](https://www.nytimes.com/games/wordle/) after you've tried a few words
 
 Example payload
